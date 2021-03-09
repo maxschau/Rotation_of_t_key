@@ -1,6 +1,3 @@
-# Rotation_of_t_key
-A project in TDAT3024 - Matematikk og fysikk valgfag
-
 ## Rotation_of_t_key
 
 The code provided in this repository was made for showing the theory behind the equations we used in a project related to rotation of a t key.
